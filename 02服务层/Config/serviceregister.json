@@ -1,0 +1,12 @@
+{
+  "SystemBase": {
+    "AIPCodeServiceName": "Config",
+    "Register": { "SystemBase,SystemBase.Service.Menu": "SystemBaseMenuAPI" }
+  },
+  "Config": {
+    "AIPCodeServiceName": "",
+    "Register": {
+      "Config,Config.Service.Service": "ConfigServiceAPI"
+    }
+  }
+  }

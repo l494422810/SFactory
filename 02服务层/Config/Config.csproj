@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>3e867507-1f57-4892-bca0-2e51384e8d9b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JMS.Invoker" Version="1.0.0.20" />
+    <PackageReference Include="JMS.ServiceProvider" Version="1.0.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\04组件层\Component\Component.csproj" />
+  </ItemGroup>
+
+</Project>

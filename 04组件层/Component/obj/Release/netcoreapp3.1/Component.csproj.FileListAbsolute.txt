@@ -1,0 +1,9 @@
+D:\project\SFactory\SFactory\04组件层\Component\bin\Release\netcoreapp3.1\Component.deps.json
+D:\project\SFactory\SFactory\04组件层\Component\bin\Release\netcoreapp3.1\Component.dll
+D:\project\SFactory\SFactory\04组件层\Component\bin\Release\netcoreapp3.1\Component.pdb
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.csprojAssemblyReference.cache
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.AssemblyInfoInputs.cache
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.AssemblyInfo.cs
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.csproj.CoreCompileInputs.cache
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.dll
+D:\project\SFactory\SFactory\04组件层\Component\obj\Release\netcoreapp3.1\Component.pdb

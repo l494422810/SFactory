@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrGbiYXj9Z8cAxTmrhxTlryxjaBnR6gxmpVyqKWCH+9OxYIxsmxbeR4PMVRyXCGsfsfWc7DBbq1r6Ox4b4atmQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\SFactory\\SFactory\\Security\\Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiquan.zhong\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

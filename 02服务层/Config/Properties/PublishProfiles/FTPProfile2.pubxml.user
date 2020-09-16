@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://172.30.77.87:2121/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/12/2020 08:52:16</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/12/2020 13:27:29</publishTime>
+    </File>
+    <File Include="BouncyCastle.Crypto.dll">
+      <publishTime>01/31/2019 19:53:56</publishTime>
+    </File>
+    <File Include="Component.dll">
+      <publishTime>09/12/2020 17:45:45</publishTime>
+    </File>
+    <File Include="Component.pdb">
+      <publishTime>09/12/2020 17:45:45</publishTime>
+    </File>
+    <File Include="Config.deps.json">
+      <publishTime>09/12/2020 17:45:47</publishTime>
+    </File>
+    <File Include="Config.dll">
+      <publishTime>09/12/2020 17:45:47</publishTime>
+    </File>
+    <File Include="Config.exe">
+      <publishTime>09/12/2020 17:45:47</publishTime>
+    </File>
+    <File Include="Config.pdb">
+      <publishTime>09/12/2020 17:45:47</publishTime>
+    </File>
+    <File Include="Config.runtimeconfig.json">
+      <publishTime>09/12/2020 10:07:20</publishTime>
+    </File>
+    <File Include="JMS.Common.dll">
+      <publishTime>08/20/2020 11:54:26</publishTime>
+    </File>
+    <File Include="JMS.Invoker.dll">
+      <publishTime>08/20/2020 03:12:38</publishTime>
+    </File>
+    <File Include="JMS.ServiceProvider.dll">
+      <publishTime>09/08/2020 09:55:24</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>05/15/2018 21:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>05/20/2020 23:56:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>05/20/2020 23:56:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>05/15/2018 21:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>05/20/2020 23:56:52</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="RestSharp.dll">
+      <publishTime>05/18/2020 11:55:38</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll">
+      <publishTime>11/15/2019 08:54:02</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 08:53:46</publishTime>
+    </File>
+    <File Include="serviceregister.json">
+      <publishTime>09/12/2020 15:52:45</publishTime>
+    </File>
+    <File Include="System.CodeDom.dll">
+      <publishTime>11/15/2019 08:36:56</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>11/15/2019 08:37:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.PerformanceCounter.dll">
+      <publishTime>11/15/2019 08:37:14</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>11/15/2019 08:37:42</publishTime>
+    </File>
+    <File Include="Way.Lib.dll">
+      <publishTime>08/20/2020 03:07:06</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/12/2020 17:45:47</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

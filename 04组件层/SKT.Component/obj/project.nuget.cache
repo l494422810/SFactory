@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5tGKlQsaT3ef0Aejnaj+3aYrFbozPnR0yQWi7cD6RZKGf0gbuQB/FxWhI7DwS5cDfgDyk0dS6HXDopKZGjDEA==",
+  "success": true,
+  "projectFilePath": "D:\\project\\SFactory\\SFactory\\04组件层\\SKT.Component\\SKT.Component.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiquan.zhong\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\qiquan.zhong\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\qiquan.zhong\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

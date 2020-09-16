@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://172.30.77.87:2123/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/29/2020 16:46:08</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/29/2020 16:46:08</publishTime>
+    </File>
+    <File Include="RestSharp.dll">
+      <publishTime>05/18/2020 11:55:38</publishTime>
+    </File>
+    <File Include="Security.deps.json">
+      <publishTime>09/07/2020 16:17:16</publishTime>
+    </File>
+    <File Include="Security.dll">
+      <publishTime>09/07/2020 16:17:16</publishTime>
+    </File>
+    <File Include="Security.exe">
+      <publishTime>09/07/2020 16:17:16</publishTime>
+    </File>
+    <File Include="Security.pdb">
+      <publishTime>09/07/2020 16:17:16</publishTime>
+    </File>
+    <File Include="Security.runtimeconfig.json">
+      <publishTime>09/07/2020 16:15:51</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/07/2020 16:17:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

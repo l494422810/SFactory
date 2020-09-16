@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNDmyfVNwBVa5pxvtGpxBIAnxmt7mGd81I9t0IspfWdy9kzWc6rgJmkARx3RcfVWHEKpvwwfvYOfEGyNgYAurg==",
+  "success": true,
+  "projectFilePath": "D:\\project\\SFactory\\SFactory\\公共库\\Utility\\Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiquan.zhong\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

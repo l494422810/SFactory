@@ -1,0 +1,6 @@
+D:\project\SFactory\SFactory\公共库\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+D:\project\SFactory\SFactory\公共库\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+D:\project\SFactory\SFactory\公共库\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+D:\project\SFactory\SFactory\公共库\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+D:\project\SFactory\SFactory\公共库\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+D:\project\SFactory\SFactory\公共库\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache

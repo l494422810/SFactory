@@ -1,0 +1,4 @@
+D:\project\SFactory\SFactory\04组件层\SKT.Component\bin\Debug\netcoreapp3.1\SKT.Component.deps.json
+D:\project\SFactory\SFactory\04组件层\SKT.Component\bin\Debug\netcoreapp3.1\SKT.Component.dll
+D:\project\SFactory\SFactory\04组件层\SKT.Component\obj\Debug\netcoreapp3.1\SKT.Component.AssemblyInfoInputs.cache
+D:\project\SFactory\SFactory\04组件层\SKT.Component\obj\Debug\netcoreapp3.1\SKT.Component.AssemblyInfo.cs
